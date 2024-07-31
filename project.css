@@ -1,0 +1,17 @@
+.gradient-background{
+    background-color: rgb(187, 170, 188);
+    margin: 0px;
+}
+.btn-group{
+    margin-left: 40%;
+}
+.text-body-secondary{
+    margin-right: 10px;
+}
+footer{
+    margin: 0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+}
+d-flex{
+    background-color: rgb(187, 170, 188);
+}
